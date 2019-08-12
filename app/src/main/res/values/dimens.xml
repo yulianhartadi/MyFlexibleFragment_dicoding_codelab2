@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Default screen margins, from Android Design guidelines. -->
+    <dimen name="actionBarSize">56dp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="nav_header_height">200dp</dimen>
+    <dimen name="viewpager_margin_card_overlap">-60dp</dimen>
+    <dimen name="viewpager_margin_overlap_payment">-30dp</dimen>
+
+
+    <!-- General Spacing -->
+    <dimen name="sp_x_small">2dp</dimen>
+    <dimen name="sp_small">3dp</dimen>
+    <dimen name="sp_medium">5dp</dimen>
+    <dimen name="sp_x_medium">7dp</dimen>
+    <dimen name="sp_middle">10dp</dimen>
+    <dimen name="sp_large">15dp</dimen>
+    <dimen name="sp_sm_large">18dp</dimen>
+    <dimen name="sp_m_large">20dp</dimen>
+    <dimen name="sp_mx_large">25dp</dimen>
+    <dimen name="sp_x_large">35dp</dimen>
+    <dimen name="sp_xm_large">40dp</dimen>
+    <dimen name="sp_xx_large">50dp</dimen>
+    <dimen name="sp_xxx_large">55dp</dimen>
+    <dimen name="appbar_padding_top">8dp</dimen>
+
+    <!-- Color Stepper -->
+    <dimen name="dots_height">@dimen/sp_xm_large</dimen>
+    <dimen name="dots_margin_bottom">@dimen/sp_x_small</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">@dimen/sp_x_large</dimen>
+    <dimen name="slide_desc">@dimen/sp_large</dimen>
+    <dimen name="desc_padding">@dimen/sp_xm_large</dimen>
+
+</resources>
